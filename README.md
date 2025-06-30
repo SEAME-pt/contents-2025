@@ -1,4 +1,4 @@
-# Software Engineering for Automotive and Mobility Ecosystems - 2025 edition
+# Software Engineering for Automotive and Mobility Ecosystems - Seame course 2025 edition
 
 # Introduction
 
