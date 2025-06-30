@@ -28,7 +28,7 @@ Throughout this course, you'll learn and apply key automotive software engineeri
 
 Your journey begins by assembling your very own **PiRacer** robot. This small-scale autonomous vehicle is powered by **Raspberry Pi**, a versatile mini-computer, and equipped with sensors, motors, and a display. You'll explore fundamental hardware components including:
 
-- Raspberry Pi setup  
+- Raspberry Pi 5 setup 
 - Servo motors for steering  
 - DC motors for propulsion  
 - Display interface  
@@ -40,7 +40,8 @@ Additionally, you'll develop a simple graphical user interface (GUI) application
 Agile methodologies like **Scrum** provide flexible, iterative approaches to software development. You'll:
 
 - Organize into small collaborative teams  
-- Set up sprint cycles, stand-up meetings, and retrospectives  
+- Set up sprint cycles, stand-up meetings, and retrospectives
+- Creating and maitaining a Scrum board that reflects sprint goals and progress accurately.
 - Learn how Agile fosters better communication, continuous feedback, and incremental improvements  
 
 This practical experience will help you appreciate the power of Agile in real-world automotive software projects.
