@@ -26,7 +26,7 @@ Throughout this course, you'll learn and apply key automotive software engineeri
 
 ## Goal 1: Getting Familiarized with PiRacer Robot and Hardware
 
-Your journey begins by assembling your very own **PiRacer** robot. This small-scale autonomous vehicle is powered by **Raspberry Pi**, a versatile mini-computer, and equipped with sensors, motors, and a display. You'll explore fundamental hardware components including:
+Your journey begins by assembling your very own **PiRacer** robot. This small-scale autonomous vehicle is powered by **Raspberry Pi 5**, a versatile mini-computer, and equipped with sensors, motors, and a display. You'll explore fundamental hardware components including:
 
 - Raspberry Pi 5 setup 
 - Servo motors for steering  
@@ -81,11 +81,11 @@ Embracing AI-driven tools early in your learning journey will enhance your codin
 
 # What is Expected by the End of this Module
 
-- **Assembled** the PiRacer robot  
-- **Established** remote control functionality allowing the control of the PiRacer's motors 
+- **Assembled** the PiRacer robot 
 - **Set up** a GitHub repository that hosts a simple program capable of launching a basic Qt application, displaying static graphical elements on the PiRacer’s built-in screen  
 - **Implemented** the Trustable Software Framework (TSF) within GitHub:
   - Defined initial software requirements  
   - Created traceability links between requirements, architecture, and test cases  
 - **Maintained** an organized sprint plan and backlog  
 - **Actively participated** in Scrum ceremonies to manage the team’s workflow effectively
+- **Established** remote control functionality allowing the control of the PiRacer's motors 
