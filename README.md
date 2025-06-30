@@ -1,3 +1,6 @@
+# Software Engineering for Automotive and Mobility Ecosystems - 2025 Editon
+seame
+
 # Introduction
 
 Over recent decades, we've witnessed a significant evolution in automotive systems driven largely by electronic innovation. Initially, electronics played a role in controlling only a handful of critical vehicle functions. Today, however, virtually every aspect of a vehicle—from basic engine operations to advanced driver-assistance systems—depends on sophisticated electronic control systems.
