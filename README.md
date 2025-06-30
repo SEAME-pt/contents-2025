@@ -1,5 +1,4 @@
 # Software Engineering for Automotive and Mobility Ecosystems - 2025 Editon
-seame
 
 # Introduction
 
