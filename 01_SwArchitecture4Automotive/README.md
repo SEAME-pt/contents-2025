@@ -44,23 +44,20 @@ Here’s the updated list with **official websites** and **GitHub repositories (
 ## Useful Links
 
 * **uProtocol**
-  Website: [https://uprotocol.org](https://uprotocol.org)
-  GitHub: [https://github.com/uptane/uprotocol-core](https://github.com/uptane/uprotocol-core) *(Note: This is a placeholder or example repo, as uProtocol's GitHub presence may vary—please confirm if referring to this or another related repo.)*
-
+  * Website: [https://uprotocol.org](https://uprotocol.org)
+  * GitHub: [https://github.com/uptane/uprotocol-core](https://github.com/uptane/uprotocol-core)
 * **COVESA (Connected Vehicle Systems Alliance)**
-  Website: [https://www.covesa.global](https://www.covesa.global)
-  GitHub: [https://github.com/COVESA](https://github.com/COVESA)
+  * Website: [https://www.covesa.global](https://www.covesa.global)
+  * GitHub: [https://github.com/COVESA](https://github.com/COVESA)
 
 * **ThreadX RTOS (Azure RTOS ThreadX)**
-  Website: [https://learn.microsoft.com/en-us/azure/rtos/threadx/](https://learn.microsoft.com/en-us/azure/rtos/threadx/)
-  GitHub: [https://github.com/azure-rtos/threadx](https://github.com/azure-rtos/threadx)
+  * Website: [https://learn.microsoft.com/en-us/azure/rtos/threadx/](https://learn.microsoft.com/en-us/azure/rtos/threadx/)
+  * GitHub: [https://github.com/azure-rtos/threadx](https://github.com/azure-rtos/threadx)
 
 * **Qt Framework**
-  Website: [https://www.qt.io/product/framework](https://www.qt.io/product/framework)
-  GitHub (Community/Mirror): [https://github.com/qt](https://github.com/qt)
+  * Website: [https://www.qt.io/product/framework](https://www.qt.io/product/framework)
+  * GitHub (Community/Mirror): [https://github.com/qt](https://github.com/qt)
 
----
+## System Architecture after module completion
 
-Let me know if you’d like to include specific documentation pages or usage examples.
-
-
+![System Architecture](https://res.cloudinary.com/dtyy8f2os/image/upload/v1752524190/Sw4Auto-Arch_kmkq3q.jpg)

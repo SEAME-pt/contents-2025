@@ -65,3 +65,7 @@ Embracing AI-driven tools early in your learning journey will enhance your codin
 - **Maintained** an organized sprint plan and backlog  
 - **Actively participated** in Scrum ceremonies to manage the team’s workflow effectively
 - **Established** remote control functionality allowing the control of the PiRacer's motors 
+
+## System Architecture after module completion
+
+![System Architecture](https://res.cloudinary.com/dtyy8f2os/image/upload/v1752524190/Warm-Up-Arch_wsuq4y.jpg)
