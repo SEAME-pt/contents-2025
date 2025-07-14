@@ -76,10 +76,10 @@ The ability to update ADAS software over a vehicle’s lifetime is equally essen
 # What is Expected by the End of this Module
 
 - Develop and deploy:
-    -  Lane Keep Assistant (LKA), Object Detection and Avoidance, Basic Cruise Control (CC), Emergency Brake Assist (EBA)
-    - Bonus: Adaptative Cruise Control (ACC) or Truck Platooning
+    - Lane Keep Assistant (LKA), Object Detection and Avoidance, Basic Cruise Control (CC), Emergency Brake Assist (EBA);
+    - Bonus: Adaptative Cruise Control (ACC) or Truck Platooning;
 - Updated Eclipse TSF according the following points:  
-    - Satisfy/Link customer requirements
-    - Updated Architectural Diagrams
+    - Satisfy/Link customer requirements;
+    - Updated Architectural Diagrams;
     - Updated Tests;
     - Updated Traceability Reports;
