@@ -2,15 +2,13 @@
 
 ## Goal 1: Getting Familiarized with Advanced Driver-Assistance Systems (ADAS)
 
-**Advanced Driver-Assistance Systems (ADAS)** are a suite of electronic technologies integrated into modern vehicles to assist drivers with driving and parking tasks. These systems rely on advanced sensors—such as cameras, radar, and lidar—to evaluate the environment around the vehicle. Key ADAS features include automatic emergency braking, lane departure warnings, adaptive cruise control, blind-spot detection, traffic sign recognition, and parking assistance. By supporting the driver and minimizing human error, ADAS technologies play a major role in improving road safety and reducing the likelihood of accidents.
+**Advanced Driver-Assistance Systems (ADAS)** are a suite of electronic technologies integrated into modern vehicles to assist drivers with driving and parking tasks. These systems rely on advanced sensors—such as cameras, radar, and lidar—to evaluate the environment around the vehicle. 
 
 The **impact of ADAS on the automotive industry is profound and multifaceted**. The introduction of these technologies has led to significant safety improvements, resulting in a notable decrease in road accidents and fatalities. This shift also brings economic benefits like lower insurance costs. Regulatory bodies worldwide are increasingly mandating the inclusion of certain ADAS features in new vehicles, pushing the industry toward higher safety standards. At the same time, ADAS is accelerating the adoption of advanced technologies such as artificial intelligence, IoT, and high-performance sensors, laying the groundwork for future autonomous vehicles. This evolution also generates new business opportunities in software development, sensor manufacturing, data analytics, fleet management, and insurance.
 
-**ADAS is vitally important because human error remains one of the leading causes of traffic accidents globally.** By automating responses to hazards and providing warnings, these systems greatly reduce the risk of collisions. For consumers, ADAS enhances not only safety but also comfort and convenience, becoming an attractive selling point for new vehicles. Furthermore, these advancements help manufacturers comply with increasingly strict safety and emissions regulations, while also facilitating more competitive insurance policies due to reduced claims.
-
-In terms of market growth, ADAS adoption has accelerated rapidly over the past decade. The global ADAS market was valued at approximately EUR 27.6–36.8 billion in 2023 and is projected to surpass EUR 73.6–92 billion by 2030, with a compound annual growth rate (CAGR) of around 12–15%. Factors driving this growth include rising public awareness, regulatory mandates, declining technology costs, and increasing integration of ADAS features in mid-range vehicles—not just luxury models.
-
 In summary, ADAS represents a transformative step in vehicle design and road safety and serves as a critical foundation for the development of fully autonomous vehicles. As technology matures and regulations evolve, the significance and prevalence of ADAS will continue to grow across the automotive landscape.
+
+So we would like to be familiar with the **Key ADAS features** include automatic emergency braking (EBA), lane departure warnings (LDW), adaptive cruise control (ACC), blind-spot detection, traffic sign recognition (TSR), and parking assistance (PA). 
 
 ## Goal 2: Getting Familiarized with Perception, Control, Localization and path-planning, Communication, Simulation
 
@@ -28,18 +26,15 @@ Simulation environments, such as CARLA or similar platforms, allow for rapid, ri
 
 In combination, these five pillars underpin the next generation of automotive technology. Mastery of them is essential for engineers, developers, and stakeholders working toward advanced, safe, and connected mobility solutions. As ADAS continues to mature, the integration and evolution of these domains will remain at the forefront of automotive innovation.
 
+For this goal we expected to you be familiar with control models like Proportional–integral–derivative controller (PID) and Model Predictive Control (MCP).
+
 ## Goal 3: Getting Familiarized with comprehensive simulation environmnents using platforms like CARLA
 
 Simulation environments like CARLA are game changers in the automotive industry, particularly for the development and testing of Advanced Driver-Assistance Systems (ADAS) and autonomous vehicles. CARLA is an open-source simulator designed specifically for autonomous driving research. It provides a highly realistic, customizable 3D world in which vehicles, sensors, pedestrians, and diverse weather and traffic conditions can be simulated.
 
-The biggest advantages of using a simulation tool like CARLA include:
-
-Safe, Repeatable Testing: Dangerous or rare traffic scenarios can be safely recreated and tested without real-world risk to people or property.
-Accelerated Development: Algorithms and systems can be rapidly iterated, tested, and validated in a virtual environment, drastically reducing development time and costs.
-Scalability: Thousands of tests can be run in parallel, allowing for thorough coverage of edge cases that are difficult or impossible to encounter in the real world.
-Customizability and Realism: CARLA supports custom maps, sensor suites, and environmental conditions, delivering high-fidelity data that closely mimics real-world driving.
-Collaboration and Benchmarking: As an open-source project, CARLA encourages collaboration, standardization, and benchmarking across industry and academia.
 In summary, CARLA and similar simulation environments enable safer, faster, and more comprehensive development of driving technologies—serving as essential tools in the push toward safer and more reliable autonomous vehicles.
+
+Our goal here is to you to install CARLA and create the necessary configurations to allow you to start test and valide your algorithms.
 
 ## Goal 4: Getting Familiarized with Advanced Driver-Assistance Systems (ADAS) Algorithms , Artificial Inteligence (AI) , Machine Learning (ML) and Deep Learning
 
@@ -50,6 +45,9 @@ Advanced Driver-Assistance Systems (ADAS) have revolutionized modern vehicles by
 **Artificial Intelligence (AI)** provides the overarching framework, simulating human-like reasoning and decision-making. **Machine Learning (ML)**, a subset of AI, enables ADAS systems to improve their performance over time by learning from data—such as distinguishing between pedestrians, cyclists, and other vehicles. **Deep Learning**, a branch of ML, excels in recognizing patterns and features within large volumes of unstructured data, such as images and videos. This is crucial for tasks like real-time object detection, scene interpretation, and driver monitoring.
 
 Integrating these advanced algorithms into ADAS is reshaping the automotive industry. Vehicles are becoming increasingly adept at preventing accidents and responding to dynamic road conditions, significantly reducing the rate of traffic incidents caused by human error. Automakers and technology firms are investing heavily in AI research and development to push the boundaries of safety and automation. Furthermore, regulatory agencies are beginning to draw up new frameworks to ensure that these AI-driven systems are tested and validated to stringent standards, ensuring reliability and public trust.
+
+Your goal is study the available models for autonomous driving and obstacles avoidance/detection. 
+The group needs to create an ADR explanning the reason for the selection of model/s into car.
 
 ## Goal 5: Getting Familiarized with GenAI applied to Advanced Driver-Assistance Systems
 
@@ -75,11 +73,18 @@ The ability to update ADAS software over a vehicle’s lifetime is equally essen
 
 # What is Expected by the End of this Module
 
-- Develop and deploy:
-    - Lane Keep Assistant (LKA), Object Detection and Avoidance, Basic Cruise Control (CC), Emergency Brake Assist (EBA);
-    - Bonus: Adaptative Cruise Control (ACC) or Truck Platooning;
-- Updated Eclipse TSF according the following points:  
-    - Satisfy/Link customer requirements;
-    - Updated Architectural Diagrams;
-    - Updated Tests;
-    - Updated Traceability Reports;
+
+By completing this module, you will:
+
+* Develop and deploy a control model to handle with the acelaration and steering of the car.
+* Develop and deploy at raspberry pi 5 a Lane Keep Assistant (LKA) caple of keep the car between the road through a full lap, Basic Cruise Control (CC).
+    - Bonus: Adaptative Cruise Control (ACC)
+* Develop and deploy at raspberry pi 5 a Object Detection and Avoidance caple to stop the car in case of collision possibillity, Emergency Brake Assist (EBA).
+    - Bonus: Truck Platooning;
+* Defined proper module requirements using the TSF framework.
+* ADR for the Models Selection Decision
+* Update a cluster UI using the Qt Framework to integrate the new ADAS features.
+* Ensure a testing infrastructure and unit test coverage report generation.
+* Gain practical experience with automotive industry-standard tools and workflows, preparing you for real-world automotive software engineering challenges.
+* ADR for models selection.
+
