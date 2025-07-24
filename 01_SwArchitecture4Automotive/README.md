@@ -8,11 +8,11 @@ As automotive technology evolves, systems are becoming more centralized with few
 
 ### Goal 1 – Integrate Speedometer with Hardware
 
-Mount and integrate a physical speedometer onto a PiRacer wheel. Establish communication between the speedometer and a microcontroller via the I²C interface, ensuring accurate and efficient data transfer.
+Mount and integrate a physical speedometer onto a PiRacer wheel. Establish communication between the speedometer and the B-U585I-IOT02A development board via the I²C interface, ensuring accurate and efficient data transfer with the STM32U585AI Microcontroller.
 
 ### Goal 2 – Data Processing with ThreadX RTOS
 
-Utilize the Eclipse ThreadX Real-Time Operating System (RTOS) on the microcontroller to asynchronously process incoming speed data. Prepare this data efficiently to maintain real-time performance essential for automotive applications.
+Utilize the Eclipse ThreadX Real-Time Operating System (RTOS) on the STM32U585AI microcontroller to asynchronously process incoming speed data. Prepare this data efficiently to maintain real-time performance essential for automotive applications.
 
 ### Goal 3 – Implement Communication using COVESA and uProtocol
 
@@ -31,7 +31,7 @@ Create and configure a GitHub Actions pipeline that includes continuous integrat
 By completing this module, you will:
 
 * Defined proper module requirements using the TSF framework.
-* Successfully integrate hardware (speedometer) with a microcontroller via I²C.
+* Successfully integrate hardware (speedometer) with a STM32U585AI microcontroller within the B-U585I-IOT02A development board via I²C.
 * Use Eclipse ThreadX RTOS for efficient real-time data processing.
 * Apply standardized communication protocols (COVESA and uProtocol) for structured and reliable data transfer.
 * Develop a responsive and user-friendly instrument cluster UI using the Qt Framework.
@@ -62,4 +62,4 @@ Here’s the updated list with **official websites** and **GitHub repositories (
 
 ## System Architecture after module completion
 
-![System Architecture](https://res.cloudinary.com/dtyy8f2os/image/upload/v1752524190/Sw4Auto-Arch_kmkq3q.jpg)
+![System Architecture](https://res.cloudinary.com/dtyy8f2os/image/upload/v1753392358/Sw4Auto-Arch.drawio_t5mfz3.png)

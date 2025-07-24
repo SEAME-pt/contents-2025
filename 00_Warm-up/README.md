@@ -69,4 +69,4 @@ Embracing AI-driven tools early in your learning journey will enhance your codin
 
 ## System Architecture after module completion
 
-![System Architecture](https://res.cloudinary.com/dtyy8f2os/image/upload/v1752524190/Warm-Up-Arch_wsuq4y.jpg)
+![System Architecture](https://res.cloudinary.com/dtyy8f2os/image/upload/v1753392359/Warm-Up-Arch.drawio_kofzrj.png)
