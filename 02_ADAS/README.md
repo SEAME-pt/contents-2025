@@ -89,4 +89,4 @@ By completing this module, you will:
 
 ## System Architecture after module completion
 
-![System Architecture](https://res.cloudinary.com/dtyy8f2os/image/upload/v1753392358/ADAS-Arch.drawio_faas1o.png)
+![System Architecture](https://res.cloudinary.com/dtyy8f2os/image/upload/v1753393082/ADAS-Arch.drawio_rbtxoa.png)
