@@ -87,3 +87,6 @@ By completing this module, you will:
 * Gain practical experience with automotive industry-standard tools and workflows, preparing you for real-world automotive software engineering challenges.
 * ADR for models selection.
 
+## System Architecture after module completion
+
+![System Architecture](https://res.cloudinary.com/dtyy8f2os/image/upload/v1753392358/ADAS-Arch.drawio_faas1o.png)
