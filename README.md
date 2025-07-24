@@ -35,7 +35,7 @@ Throughout the course you will be using different hardware components to achieve
 - Servo motors - for steering.
 - DC motors - for propulsion.
 - Display - to enable a UI / UX elements.
-- Microcontroller (TBD which) - Running RTOS to enable safety critical functionality.
+- B-U585I-IOT02A Development Board with STM32U585AI Microcontroller - Running RTOS to enable safety critical functionality.
 - Hailo AI Hat - to perform machine learning inference at high speed.
 - Camera and other sensors - understanding environment to enable ADAS functions.
 - etc.
