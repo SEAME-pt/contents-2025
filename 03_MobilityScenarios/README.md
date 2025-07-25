@@ -53,8 +53,6 @@ To successfully implement these scenarios, you will likely engage with some of t
 * Microcontrollers and processors optimized for automotive use
 * Cybersecurity frameworks and standards (ISO 21434)
 * Automotive User Interface frameworks (Qt, Android Automotive OS)
-* GPS and GNSS modules
-* LiDAR, radar, and sensor fusion systems
 * Wireless communication technologies (5G, Wi-Fi, Bluetooth)
 * Message Queuing Telemetry Transport (MQTT)
 * RESTful APIs and data exchange protocols
