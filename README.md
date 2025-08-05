@@ -38,4 +38,13 @@ Throughout the course you will be using different hardware components to achieve
 - B-U585I-IOT02A Development Board with STM32U585AI Microcontroller - Running RTOS to enable safety critical functionality.
 - Hailo AI Hat - to perform machine learning inference at high speed.
 - Camera and other sensors - understanding environment to enable ADAS functions.
+- SpeedSensor.
+- CAN Transceiver.
+- SSD Pi Disk.
+- PCI-E mSATA to USB 3.0 Converter.
+- Expansion Board.
+- Batteries.
+- Jetracer Chassis and wheels. 
 - etc.
+
+![HW_Diagram](https://github.com/SEAME-pt/contents-2025/HW_Diagram_SeaMe.png)
