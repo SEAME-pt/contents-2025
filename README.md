@@ -47,4 +47,6 @@ Throughout the course you will be using different hardware components to achieve
 - Jetracer Chassis and wheels. 
 - etc.
 
-![HW_Diagram](https://github.com/SEAME-pt/contents-2025/HW_Diagram_SeaMe.png)
+<p align="center">
+  <img src="https://github.com/SEAME-pt/contents-2025/blob/feature/HW_Diagram/HW_Diagram_SeaMe.png">
+</p>
