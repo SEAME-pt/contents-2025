@@ -52,4 +52,3 @@ Use the **Trustable Software Framework (TSF)** to ensure and maintain evidence o
 * A **backend client**: to communicate with Brisa's backend.
 * A **TSF traceability** set: requirements list, architecture notes/diagrams, and links from requirements → code → tests in GitHub.
 * **Automated tests** unit, integration and simulation.
-* (Bonus) **Bonus features** such as parking or Raspberry Pi 5 integration, with a short demo.
