@@ -1,6 +1,6 @@
 # Introduction
 
-Brisa operates tolling infrastructure across several geographies and is exploring new, software-centric ways to run and expand these services. Today, tolling depends on costly roadside equipment and in-vehicle devices (on-board units, or OBUs). A “dematerialized” approach—detecting toll passages unising the vehicle’s own systems (e.g., GPS) and secure commucation to the backend could reduce costs, speed up deployment in new markets, and simplify the user experience.
+Brisa operates tolling infrastructure across several geographies and is exploring new, software-centric ways to run and expand these services. Today, tolling depends on costly roadside equipment and in-vehicle devices (on-board units, or OBUs). A “dematerialized” approach for detecting toll passages unising the vehicle’s own systems (e.g., GPS) and secure commucation to the backend could reduce costs, speed up deployment in new markets, and simplify the user experience.
 
 Your project in this module mirrors a real commercial problem with clear business value: prototyping a Via Verde-like in-vehicle app on Android Automotive OS (AAOS) that detects toll events via GPS and communicates securely with Brisa’s backend.
 This module will guide you through building a working prototype while learning modern automotive software practices: secure data handling, reliable toll passage event detection, backend integration, traceability, and testing.
