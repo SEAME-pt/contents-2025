@@ -53,5 +53,5 @@ Use the **Trustable Software Framework (TSF)** to ensure and maintain evidence o
 * A **TSF traceability** set: requirements list, architecture notes/diagrams, and links from requirements → code → tests in GitHub.
 * **Automated tests** unit, integration and simulation.
 * **Bonus** Other use cases implemented:
-    * AAOS environment running on Raspberry 5 with other car functions integrated
-    * Other mobility scnenarios interesting for Brisa (Parking, wrong-way detection and warning, etc.)
+    * AAOS environment running on Raspberry 5 with other car functions integrated.
+    * Other mobility scnenarios interesting for Brisa (Parking, wrong-way detection and warning, etc.).
