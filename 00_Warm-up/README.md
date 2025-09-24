@@ -62,7 +62,8 @@ Embracing AI-driven tools early in your learning journey will enhance your codin
 - **Set up** a GitHub repository that hosts a simple program capable of launching a basic Qt application, displaying static graphical elements on the PiRacer’s built-in screen  
 - **Implemented** the Trustable Software Framework (TSF) within GitHub:
   - Defined initial software requirements  
-  - Created traceability links between requirements, architecture, and test cases  
+  - Created traceability links between requirements, architecture, and test cases
+  - Prepare a pull request to the course book that lists the requirements expected to be satisfied along the module  
 - **Maintained** an organized sprint plan and backlog  
 - **Actively participated** in Scrum ceremonies to manage the team’s workflow effectively
 - **Established** remote control functionality allowing the control of the PiRacer's motors 
