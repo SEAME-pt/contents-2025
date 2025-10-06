@@ -1,6 +1,6 @@
 ## Introduction
 
-Vehicle-to-Everything (V2X) communication is becoming increasingly essential in modern automotive technology. As vehicles evolve to interact dynamically with their environment, other vehicles, pedestrians, and the cloud git scustomers are expecting richer and more seamless mobility experiences. Such advancements have unlocked innovative scenarios like robotaxis, smart traffic management, electric charging optimization, enhanced safety features, and many other scenarios that were unimaginable just a few years ago.
+Vehicle-to-Everything (V2X) communication is becoming increasingly essential in modern automotive technology. As vehicles evolve to interact dynamically with their environment, other vehicles, pedestrians, and the cloud git customers are expecting richer and more seamless mobility experiences. Such advancements have unlocked innovative scenarios like robotaxis, smart traffic management, electric charging optimization, enhanced safety features, and many other scenarios that were unimaginable just a few years ago.
 
 Vehicles are now generating extensive amounts of data, providing OEMs great insights into customer behaviors, preferences, and usage patterns. This data-rich environment allows manufacturers to continuously refine and tailor their offerings, ensuring that customer expectations are constantly met.
 
@@ -64,6 +64,7 @@ By the end of this module, you will:
 * Have chosen and implemented a meaningful V2X scenario in a practical environment.
 * Have documented your project's architecture and technology choices clearly and thoroughly.
 * Established and managed detailed requirements with traceability using TSF in GitHub.
+    - Prepare a pull request to the course book that lists the requirements expected to be satisfied along the module  
 * Provided extensive test coverage demonstrating reliability and quality of your solution.
 
 ## System Architecture after module completion

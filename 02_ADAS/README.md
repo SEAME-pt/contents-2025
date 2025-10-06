@@ -81,11 +81,11 @@ By completing this module, you will:
 * Develop and deploy an Object Detection and Avoidance feature capable to stop the car in case of collision possibility, Emergency Brake Assist (EBA).
     - Bonus: Truck Platooning;
 * Defined proper module requirements using the TSF framework.
+    - Prepare a pull request to the course book that lists the requirements expected to be satisfied along the module  
 * ADR for the Models Selection Decision
 * Update a cluster UI using the Qt Framework to integrate the new ADAS features.
 * Ensure a testing infrastructure and unit test coverage report generation.
 * Gain practical experience with automotive industry-standard tools and workflows, preparing you for real-world automotive software engineering challenges.
-* ADR for models selection.
 
 ## System Architecture after module completion
 

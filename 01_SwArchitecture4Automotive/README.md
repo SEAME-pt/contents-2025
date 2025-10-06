@@ -12,7 +12,7 @@ Mount and integrate a physical speedometer onto a PiRacer wheel. Establish commu
 
 ### Goal 2 – Data Processing with ThreadX RTOS
 
-Utilize the Eclipse ThreadX Real-Time Operating System (RTOS) on the STM32U585AI microcontroller to asynchronously process incoming speed data. Prepare this data efficiently to maintain real-time performance essential for automotive applications.
+Use the Eclipse ThreadX Real-Time Operating System (RTOS) on the STM32U585AI microcontroller to asynchronously process incoming speed data. Prepare this data efficiently to maintain real-time performance essential for automotive applications.
 
 ### Goal 3 – Implement Communication using COVESA and uProtocol
 
@@ -31,6 +31,7 @@ Create and configure a GitHub Actions pipeline that includes continuous integrat
 By completing this module, you will:
 
 * Defined proper module requirements using the TSF framework.
+  - Prepare a pull request to the course book that lists the requirements expected to be satisfied along the module  
 * Successfully integrate hardware (speedometer) with a STM32U585AI microcontroller within the B-U585I-IOT02A development board via I²C.
 * Use Eclipse ThreadX RTOS for efficient real-time data processing.
 * Apply standardized communication protocols (COVESA and uProtocol) for structured and reliable data transfer.

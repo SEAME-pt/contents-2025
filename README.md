@@ -11,7 +11,6 @@ To take matters into perspective, the average cost of electronic systems within 
 <p align="center">
   <img src="https://www.embitel.com/wp-content/uploads/Bar-graph.png">
 </p>
-![Share of cost](https://www.embitel.com/wp-content/uploads/Bar-graph.png)
 
 Parallel to the increase in quantity, automotive systems have also significantly grown in computational power and complexity. This boost in computing capability has enabled vehicles to perform tasks such as real-time data analysis for active safety systems, navigation guidance, and autonomous driving algorithms.
 
@@ -51,7 +50,7 @@ Throughout the course you will be using different hardware components to achieve
 - PCI-E mSATA to USB 3.0 Converter.
 - Expansion Board.
 - Batteries.
-- Jetracer Chassis and wheels. 
+- Piracer Chassis and wheels. 
 - etc.
 
 <p align="center">
