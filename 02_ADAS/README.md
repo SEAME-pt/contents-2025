@@ -28,8 +28,6 @@ A comprehensive understanding of key words is essential for developing autonomou
     - algorithms cable to create physical outputs actions, managing steering, acceleration, and braking.
 - **Localization and Path-Planning:** 
     - model to provide and generate optimal trajectories for safe navigation.
-- **Communication:** 
-    - technologies (V2V, V2I, V2X) allow vehicles to share data with each other and infrastructure.
 - **Simulation:** 
     - simulation platforms like CARLA support the development and testing of these components in multiple test cases. With this type of tools we can improve, safety and efficiency, our model before real-world deployment. 
 
@@ -75,11 +73,12 @@ As part of this project, you are challenge to implement an OTA update mechanism 
 
 By completing this module, you will:
 
-* Develop and deploy a control model, preferably where the system should operate in autonomous manner, to handle with the acceleration and steering of the car.
+* Develop and deploy a control model to handle with the acceleration and steering of the car autonomously.
 * Develop and deploy a Lane Keep Assistant (LKA) feature capable of keeping the car between the road through a full lap, Basic Cruise Control (CC).
     - Bonus: Adaptative Cruise Control (ACC)
 * Develop and deploy an Object Detection and Avoidance feature capable to stop the car in case of collision possibility, Emergency Brake Assist (EBA).
     - Bonus: Truck Platooning;
+* Develop and deploy traffic sign recognotion models that affect the behavior and maximum speed of the car.
 * Defined proper module requirements using the TSF framework.
     - Prepare a pull request to the course book that lists the requirements expected to be satisfied along the module  
 * ADR for the Models Selection Decision
